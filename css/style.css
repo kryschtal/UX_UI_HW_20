@@ -224,3 +224,7 @@ footer {
 .card-header {
     background-color: rgba(161, 98, 76, .5);
 }
+
+.d-md-block {
+    color: black;
+}
