@@ -111,11 +111,12 @@ h2 {
 }
 
 .ideation {
-        width: 90%;
+        width: 70%;
         height: 40%;
         display: block;
         margin-left: auto;
         margin-right: auto;
+        
 }
 
 .d-block {
@@ -134,6 +135,13 @@ h5 {
     background-color: rgba(161, 98, 76, .5);
 }
 
+.d-block {
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 20%;
+}
+
 .slideText {
     color: black;
 }
@@ -146,7 +154,12 @@ h5 {
     color: black;
 }
 
-
+.webFlow {
+   height: 100%; 
+   padding-top: 10%;
+   padding-right: 10%;
+   padding-bottom: 8%;
+}
 
 .foot {
     display: inline-block;
@@ -225,6 +238,12 @@ footer {
     background-color: rgba(161, 98, 76, .5);
 }
 
-.d-md-block {
-    color: black;
+.carousel-indicators li {
+    background-color: black;
 }
+.card-body {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
